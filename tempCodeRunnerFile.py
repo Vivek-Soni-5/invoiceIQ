@@ -1,0 +1,1 @@
+es.indices.refresh(index=index_name1)
